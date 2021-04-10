@@ -1,6 +1,6 @@
 Hi, I’m @austinemery
 
-I’m interested in anyting related to programming
+I’m interested in python, C, C++, and LAMP Stacks
 
 I’m currently learning Kotlin
 
