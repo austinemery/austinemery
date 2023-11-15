@@ -1,7 +1,5 @@
 Hi, I’m @austinemery
 
-I’m interested in python, C, C++, and LAMP Stacks
+I’m interested in python, AutoIt, C, C++, and LAMP.
 
-I’m currently learning Kotlin
-
-austinemery@nevada.unr.edu
+austinemery@people.unr.edu
